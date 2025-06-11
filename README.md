@@ -1,2 +1,2 @@
 # xlsx-compound-calculator
- This excel sheet let's you calculate molar masses, synthesis weights based on mole fractions, theoritic capacities of electrochemically acitive materials and desnities of crystalline materials
+  This Excel sheet lets you calculate molar masses, synthesis weights based on mole fractions, theoretic capacities of electrochemically active materials, and densities of crystalline materials.
